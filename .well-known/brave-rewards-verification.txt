@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: keparlak.github.io
-Token: 1e6d6cdbf4423c344d36816132d53c6362b32ed5fa0384a116959abda0c2cd1f
