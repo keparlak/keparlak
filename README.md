@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kadir Emre</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Howdy, it's Kadir Emre Parlak, a software developer. My strengths things include fields like fast problem-solving, creative thinking and managing software systems. I am always keen to learn new things and accept any creative challenge. My goal is to always build produce quality and sensible software.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
